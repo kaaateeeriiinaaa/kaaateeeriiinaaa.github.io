@@ -1,0 +1,279 @@
+.hed{
+display: flex;
+}
+.name{
+    color: #FFF;
+font-family: Nerko One;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.glav{
+width: 1920px; 
+height: 989px; 
+margin-left: -10px;
+margin-top: -40px;
+flex-shrink: 0;
+background: #7D7FF2;
+}
+.logoglav{
+width: 230px;
+height: 38.94px;
+flex-shrink: 0;
+margin-left: 150px;
+margin-top: 45px;
+}
+.knopka{
+width: 172px;
+height: 53px;
+flex-shrink: 0;
+margin-top: 78px;
+margin-left: 1112px;
+border-radius: 15px;
+font-family: Neuton; 
+border: 2px solid #34367A;  
+background-color: #34367A;
+display: inline-flex;
+padding: 15px 25px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+filter: drop-shadow(3px 7px 9px rgba(52, 54, 122, 0.20));
+}
+.knopka2{
+width: 105px;
+height: 53px;
+margin-top: 78px;
+margin-left: 38px;
+flex-shrink: 0;
+border-radius: 15px;
+background-color: rgba(28,28,28,0);
+border: 2px solid #34367A;
+display: inline-flex;
+padding: 15px 25px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+filter:drop-shadow(3px 7px 9px rgba(52, 54, 122, 0.20));
+}
+.kn_sin{
+color: #FFF;
+font-family: Neuton;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.kn_pr{
+color: #34367A;
+font-family: Neuton;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.osnov{
+display: flex;
+}
+.logo{
+width: 401px;
+height: 62.865px;
+
+}
+.textova{
+margin-top: 277px;
+ margin-left: 150px;
+ color: #FFF;
+font-family: Neuton;
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.t1{
+    margin-top: -78px;
+    margin-left: 420px;
+}
+.t2{
+    margin-top: -45px;
+}
+.slova{
+ width: 539px;
+color: #FFF;
+margin-top: 33px;
+font-family: Neuton;
+font-size: 26px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.knopka3{
+    width: 298px;
+    height: 73px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    border: 2px solid #34367A;  
+    background-color: #34367A;
+    display: inline-flex;
+    padding: 15px 25px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    filter: drop-shadow(3px 7px 9px rgba(52, 54, 122, 0.20));
+}
+.kn_sin2{
+color: #FFF;
+font-family: Neuton;
+font-size: 26px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.people{
+    width: 930px;
+height: 609.874px;
+flex-shrink: 0;
+margin-right: 120px;
+margin-top: 118px;
+}
+.job{
+margin-left: 150px;
+margin-top: 120px;
+}
+.textjob{
+color: #34367A;
+font-family: Neuton;
+font-size: 50px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.kartochki{
+    display: flex;
+}
+.rectandle{
+    width: 484px;
+height: 371px;
+flex-shrink: 0;
+border-radius: 15px;
+background: #D7F1E4;
+margin-top: 92px;
+margin-left: 150px;
+}
+.rectandle2{
+    width: 484px;
+height: 371px;
+flex-shrink: 0;
+border-radius: 15px;
+background: #D7F1E4;
+margin-top: 92px;
+margin-left: 84px;
+}
+.opisanie{
+    display: flex;
+}
+.shag{
+color: #A7A7A7;
+font-family: Neuton;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.zagolov{
+color: #34367A;
+font-family: Neuton;
+font-size: 26px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.content{
+width: 484px;
+color: #000;
+font-family: Neuton;
+font-size: 26px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.fon{
+    display: flex;
+width: 1620px;
+height: 660px;
+flex-shrink: 0;
+border-radius: 15px;
+background: #F9D9B6;
+margin-top: 250px;
+margin-left: 150px;
+}
+.text_content{
+    margin-top: 90px;
+    margin-left: 90px;
+}
+.zagolov12{
+width: 602px;
+color: #34367A;
+font-family: Neuton;
+font-size: 50px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.content1{
+width: 700px;
+height: 110px;
+flex-shrink: 0;
+color: #000;
+font-family: Neuton;
+font-size: 26px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.foto{
+margin-top: 90px;
+margin-left: 387px;
+}
+.footer{
+    display: flex;
+width: 1920px;
+height: 260px;
+flex-shrink: 0;
+background: #7D7FF2;
+margin-bottom: -10px;
+margin-left: -8px;
+}
+.organ{
+margin-top: 90px;
+margin-left: 150px;
+}
+.org{
+    color: #FFF;
+    font-family: Neuton;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 10px;  
+}
+.kontakti{
+display: flex;
+}
+.butvk{
+margin-top: 110px;
+width: 64px;
+height: 38.4px;
+flex-shrink: 0;
+background-color: rgba(28,28,28,0);
+border: 0cm;
+}
+.butyt{
+width: 64px;
+height: 47.158px;
+flex-shrink: 0;
+margin-top: 105px;
+background-color: rgba(28,28,28,0);
+border: 0cm;
+}
